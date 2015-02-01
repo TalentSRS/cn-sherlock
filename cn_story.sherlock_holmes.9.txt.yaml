@@ -1,0 +1,100 @@
+- chinese: 放开他！
+  english:
+  - Let go of him!
+  type: chinese
+  comment: ! 'Covers: 放开. Cost: 0.0'
+- chinese: 一真往前走。
+  english:
+  - Go straight ahead.
+  type: chinese
+  comment: ! 'Covers: 往前. Cost: 0.0'
+- chinese: 他比你高一点点。
+  english:
+  - He's a little taller than you are.
+  type: chinese
+  comment: ! 'Covers: 一点点. Cost: 1.5697108592597246e-3'
+- chinese: 你明白了吗?
+  english:
+  - Do you understand?
+  type: chinese
+  comment: ! 'Covers: 明白. Cost: 0.0'
+- chinese: 刚刚你说什么？
+  english:
+  - What did you say just now?
+  type: chinese
+  comment: ! 'Covers: 刚刚. Cost: 0.0'
+- chinese: 不要打开你的书。
+  english:
+  - Don't open your book.
+  type: chinese
+  comment: ! 'Covers: 打开. Cost: 0.0'
+- chinese: 他有了一个重要的发现。
+  english:
+  - He made an important discovery.
+  type: chinese
+  comment: ! 'Covers: 有了. Cost: 0.0'
+- chinese: 他真是一个好人。
+  english:
+  - He really is a good person.
+  type: chinese
+  comment: ! 'Covers: 真是. Cost: 0.0'
+- chinese: 一个聪明人不会说这种话。
+  english:
+  - A wise man would not say such a thing.
+  type: chinese
+  comment: ! 'Covers: 这种. Cost: 0.0'
+- chinese: 你的方法和我的不一样。
+  english:
+  - Your method is different from mine.
+  type: chinese
+  comment: ! 'Covers: 方法. Cost: 0.0'
+- chinese: 我向一个警察问路。
+  english:
+  - I asked a policeman for directions.
+  type: chinese
+  comment: ! 'Covers: 问路. Cost: 1.9482164078785873e-3'
+- chinese: 他告诉我要说慢一点。
+  english:
+  - He told me to speak more slowly.
+  type: chinese
+  comment: ! 'Covers: 要说. Cost: 0.0'
+- chinese: Jim 和 Ron 跑得一样快。
+  english:
+  - Jim runs as fast as Ron.
+  type: chinese
+  comment: ! 'Covers: 跑. Cost: 0.0'
+- chinese: 快跑，不然你要迟到了。
+  english:
+  - Run or else you'll be late.
+  type: chinese
+  comment: ! 'Covers: 快跑. Cost: 1.3902405116085082e-2'
+- chinese: 不要太晚去睡觉。
+  english:
+  - Don't stay up too late.
+  type: chinese
+  comment: ! 'Covers: 晚. Cost: 0.0'
+- chinese: 这听上去挺不错的。
+  english:
+  - It sounds quite all right.
+  type: chinese
+  comment: ! 'Covers: 上去. Cost: 4.412283798093893e-3'
+- chinese: 我曾经在中国不到一个月。
+  english:
+  - I've been in China for less than a month.
+  type: chinese
+  comment: ! 'Covers: 不到. Cost: 5.896574090453447e-3'
+- chinese: 只是从他旁边走过去我就觉得害怕。
+  english:
+  - I get scared just walking past him.
+  type: chinese
+  comment: ! 'Covers: 走过. Cost: 1.598976654940838e-2'
+- chinese: 听到这个坏消息，他心里充满恐怖。
+  english:
+  - He was filled with horror at the bad news.
+  type: chinese
+  comment: ! 'Covers: 心里. Cost: 1.4923145799134457e-2'
+- chinese: 舞台灯光暗了下去, 这出戏的第一幕结束了.
+  english:
+  - The stage lights (were) dimmed, and the play's first act was over.
+  type: chinese
+  comment: ! 'Covers: 灯光. Cost: 5.015045135406218e-2'

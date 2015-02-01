@@ -1,0 +1,49 @@
+parents:
+ - https://github.com/TalentSRS/cn-comprehensive
+title: Sherlock Holmes
+tags:
+ - Graded Reader
+ - Story
+description: |
+  This course will introduce the Chinese characters necessary to read
+  'Sherlock Holmes and the Case of the Curly Haired Company' in Mandarin
+  Chinese. The story is written using only 300 common Chinese characters
+  and you do not have to learn them all at once. The first chapter requires
+  a little more than 100 words and each successive chapter adds fewer than
+  50 new words.
+
+  This course assumes that you have the ebook (available from Amazon.com) and
+  that you know how to input Chinese characters on your computer. When you're
+  ready, [click on 'Study'.](9/study)"
+image: sherlock.jpg
+units:
+ - title: 1. 有意思的案子
+   content: chapter.md
+   stencils: cn_story.sherlock_holmes.1.txt.yaml
+ - title: 2. 一个广告
+   content:
+   stencils: cn_story.sherlock_holmes.2.txt.yaml
+ - title: 3. 新工作
+   content:
+   stencils: cn_story.sherlock_holmes.3.txt.yaml
+ - title: 4. 公司关门了?
+   content:
+   stencils: cn_story.sherlock_holmes.4.txt.yaml
+ - title: 5. 茶馆里的事
+   content:
+   stencils: cn_story.sherlock_holmes.5.txt.yaml
+ - title: 6. 去茶馆
+   content:
+   stencils: cn_story.sherlock_holmes.6.txt.yaml
+ - title: 7. 你们听!
+   content:
+   stencils: cn_story.sherlock_holmes.7.txt.yaml
+ - title: 8. 等人
+   content:
+   stencils: cn_story.sherlock_holmes.8.txt.yaml
+ - title: 9. 真的是他!
+   content:
+   stencils: cn_story.sherlock_holmes.9.txt.yaml
+ - title: 10. 都明白了
+   content:
+   stencils: cn_story.sherlock_holmes.10.txt.yaml

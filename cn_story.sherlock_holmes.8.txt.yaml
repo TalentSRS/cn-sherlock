@@ -1,0 +1,97 @@
+- chinese: 拿走。
+  english:
+  - Take away.
+  type: chinese
+  comment: ! 'Covers: 拿走. Cost: 0.0'
+- chinese: 请开灯。
+  english:
+  - Turn on the light, please.
+  type: chinese
+  comment: ! 'Covers: 开灯. Cost: 0.0'
+- chinese: 他喜欢睡觉。
+  english:
+  - He likes sleeping.
+  type: chinese
+  comment: ! 'Covers: 睡觉. Cost: 0.0'
+- chinese: 请记住他说的话。
+  english:
+  - Please remember what he said.
+  type: chinese
+  comment: ! 'Covers: 记住. Cost: 0.0'
+- chinese: 我抓住了机会。
+  english:
+  - I took advantage of an opportunity.
+  type: chinese
+  comment: ! 'Covers: 抓住. Cost: 0.0'
+- chinese: 我什么都看不见。
+  english:
+  - I don't see anything.
+  - I can't see anything.
+  type: chinese
+  comment: ! 'Covers: 看不见. Cost: 0.0'
+- chinese: 你看起来很紧张。
+  english:
+  - You look tense.
+  - You seem very nervous.
+  type: chinese
+  comment: ! 'Covers: 紧张. Cost: 0.0'
+- chinese: 他说他让你说慢一点。
+  english:
+  - He said that he had told you to speak more slowly.
+  type: chinese
+  comment: ! 'Covers: 慢. Cost: 0.0'
+- chinese: 不关你的事。
+  english:
+  - It has nothing to do with you.
+  type: chinese
+  comment: ! 'Covers: 关. Cost: 0.0'
+- chinese: 他害怕你会开枪打他。
+  english:
+  - He was scared you would shoot him.
+  type: chinese
+  comment: ! 'Covers: 开枪. Cost: 5.286250462546916e-3'
+- chinese: 你应该要更小心。
+  english:
+  - You should be more careful.
+  type: chinese
+  comment: ! 'Covers: 小心. Cost: 0.0'
+- chinese: 我父亲有五十岁。
+  english:
+  - My father is fifty years old.
+  type: chinese
+  comment: ! 'Covers: 五十. Cost: 2.705554503395471e-3'
+- chinese: 每个人都有自己的名字.
+  english:
+  - Each man has his own name.
+  type: chinese
+  comment: ! 'Covers: 每个人. Cost: 0.0'
+- chinese: 最近过得好吗？
+  english:
+  - Have you been well?
+  type: chinese
+  comment: ! 'Covers: 过得. Cost: 6.063913649869626e-3'
+- chinese: 黄金比铁重。
+  english:
+  - Gold is heavier than iron.
+  type: chinese
+  comment: ! 'Covers: 黄金. Cost: 3.534817956875221e-2'
+- chinese: 他睡了十个小时觉了。
+  english:
+  - He’s been asleep for ten hours now.
+  type: chinese
+  comment: ! 'Covers: 睡. Cost: 0.0'
+- chinese: 我们从那里逃了出来。
+  english:
+  - We made it out of there.
+  type: chinese
+  comment: ! 'Covers: 逃. Cost: 0.0'
+- chinese: 我们正在准备装箱单。
+  english:
+  - We are preparing the packing list.
+  type: chinese
+  comment: ! 'Covers: 箱. Cost: 1.4208581983518046e-2'
+- chinese: 有紧急情况时，必须通过这个出口跑出房子。
+  english:
+  - If there's an emergency, you must run out of the house through this exit.
+  type: chinese
+  comment: ! 'Covers: 跑出. Cost: 3.27653997378768e-2'

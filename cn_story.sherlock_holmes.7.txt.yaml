@@ -1,0 +1,101 @@
+- chinese: 你又来了。
+  english:
+  - There you go again.
+  type: chinese
+  comment: ! 'Covers: 又来了. Cost: 0.0'
+- chinese: 你可以进来。
+  english:
+  - You can come in.
+  type: chinese
+  comment: ! 'Covers: 进来. Cost: 0.0'
+- chinese: 锁大门。
+  english:
+  - Lock the gate.
+  type: chinese
+  comment: ! 'Covers: 大门. Cost: 1.2023566189731874e-2'
+- chinese: 他多大了？
+  english:
+  - How old is he?
+  type: chinese
+  comment: ! 'Covers: 多大. Cost: 0.0'
+- chinese: 你在哪里下车？
+  english:
+  - Where do you get off?
+  type: chinese
+  comment: ! 'Covers: 下车. Cost: 0.0'
+- chinese: 和你在一起没意思。
+  english:
+  - I don't enjoy being with you.
+  type: chinese
+  comment: ! 'Covers: 在一起. Cost: 0.0'
+- chinese: 灯亮着。
+  english:
+  - The light is on.
+  type: chinese
+  comment: ! 'Covers: 灯. Cost: 0.0'
+- chinese: 天不早了。
+  english:
+  - It's getting late.
+  type: chinese
+  comment: ! 'Covers: 早. Cost: 0.0'
+- chinese: 不要站在我身边。
+  english:
+  - Don't stand near me.
+  type: chinese
+  comment: ! 'Covers: 身边. Cost: 3.3276762836511264e-3'
+- chinese: 你希望我帮忙吗？
+  english:
+  - Do you wish me to help?
+  type: chinese
+  comment: ! 'Covers: 帮忙. Cost: 0.0'
+- chinese: 今晚一定是好天。
+  english:
+  - The weather will be good tonight for sure.
+  type: chinese
+  comment: ! 'Covers: 今晚. Cost: 0.0'
+- chinese: 她是我们经理。
+  english:
+  - He is our manager.
+  type: chinese
+  comment: ! 'Covers: 经理. Cost: 1.51506198876127e-4'
+- chinese: “这些车是你的吗？”“是的，是我的。”
+  english:
+  - ! '"Are these your cars?" "Yes, they are."'
+  - ! '"Are these cars yours?" "Yes, they are mine."'
+  type: chinese
+  comment: ! 'Covers: 车. Cost: 0.0'
+- chinese: 他找到的箱子是空的。
+  english:
+  - The box he found was empty.
+  type: chinese
+  comment: ! 'Covers: 箱子. Cost: 0.0'
+- chinese: 这种导弹由地下发射.
+  english:
+  - The missile is delivered from underground.
+  type: chinese
+  comment: ! 'Covers: 地下. Cost: 6.578947368421052e-2'
+- chinese: 你认识王大年先生吗？
+  english:
+  - Do you know Mr. Wang Danian?
+  type: chinese
+  comment: ! 'Covers: 王. Cost: 0.0'
+- chinese: 不要给警察发现你身上有枪。
+  english:
+  - Don't let the cops find a heater on you.
+  type: chinese
+  comment: ! 'Covers: 警察. Cost: 0.0'
+- chinese: 猫在椅子上面，还是在椅子下面呢？
+  english:
+  - Is the cat on the chair or under the chair?
+  type: chinese
+  comment: ! 'Covers: 下面. Cost: 9.511128019783146e-3'
+- chinese: 那辆车卖一万块钱。
+  english:
+  - That car sells for ten thousand dollars.
+  type: chinese
+  comment: ! 'Covers: 万. Cost: 5.419466724474312e-3'
+- chinese: 谁笑到最后谁笑得最好。
+  english:
+  - Who laughs last laughs longest.
+  type: chinese
+  comment: ! 'Covers: 最后. Cost: 0.0'

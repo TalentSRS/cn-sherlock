@@ -1,0 +1,82 @@
+- chinese: Tatoeba是什么意思？
+  english:
+  - What does "Tatoeba" mean?
+  - What does TATOEBA mean?
+  type: chinese
+  comment: ! 'Covers: 意思. Cost: 0.0'
+- chinese: 为了什么目的？
+  english:
+  - For what purpose?
+  type: chinese
+  comment: ! 'Covers: 目的. Cost: 0.0'
+- chinese: 今天是星期六。
+  english:
+  - Today is Saturday.
+  type: chinese
+  comment: ! 'Covers: 星期六. Cost: 0.0'
+- chinese: 他一个人生活。
+  english:
+  - He lives by himself.
+  - He lives alone.
+  type: chinese
+  comment: ! 'Covers: 生活. Cost: 0.0'
+- chinese: 后天是汤姆的生日。
+  english:
+  - The day after tomorrow is Tom's birthday.
+  type: chinese
+  comment: ! 'Covers: 后天. Cost: 2.3408239700374533e-2'
+- chinese: 你星期天都做什么？
+  english:
+  - What do you do on Sundays?
+  type: chinese
+  comment: ! 'Covers: 星期天. Cost: 0.0'
+- chinese: 你去过哪些国家？
+  english:
+  - Which countries have you visited?
+  type: chinese
+  comment: ! 'Covers: 哪些. Cost: 6.016123210203345e-3'
+- chinese: 你今晚想出去吃吗？
+  english:
+  - Do you want to eat out tonight?
+  type: chinese
+  comment: ! 'Covers: 想出. Cost: 0.0'
+- chinese: 我一定要马上去吗？
+  english:
+  - Must I go there at once?
+  type: chinese
+  comment: ! 'Covers: 一定要. Cost: 0.0'
+- chinese: 你不让我去，我就要去。
+  english:
+  - If you don't let me go, I'll still go.
+  type: chinese
+  comment: ! 'Covers: 就要. Cost: 0.0'
+- chinese: 犯人挖地道逃跑了.
+  english:
+  - The prisoners had escaped by tunnelling.
+  type: chinese
+  comment: ! 'Covers: 地道. Cost: 3.225806451612903e-2'
+- chinese: 一个朋友明天要过来。
+  english:
+  - A friend's coming over tomorrow.
+  type: chinese
+  comment: ! 'Covers: 明天. Cost: 0.0'
+- chinese: 他的英语有了小小的进步。
+  english:
+  - He has made little progress in his English.
+  type: chinese
+  comment: ! 'Covers: 小小. Cost: 4.3744531933508315e-2'
+- chinese: 人们不喜欢有这么多广告。
+  english:
+  - People don’t like so much advertising.
+  type: chinese
+  comment: ! 'Covers: 人们. Cost: 0.0'
+- chinese: 他难以说明她为什麽不见了.
+  english:
+  - He was hard put (to it) to explain her disappearance.
+  type: chinese
+  comment: ! 'Covers: 不见. Cost: 2.677376171352075e-2'
+- chinese: 我们不想给人看见，所以就从后门走了进去。
+  english:
+  - We came in through the back door lest someone should see us.
+  type: chinese
+  comment: ! 'Covers: 后门. Cost: 2.9318634924357925e-3'
