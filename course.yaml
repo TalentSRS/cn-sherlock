@@ -21,29 +21,29 @@ units:
    content: chapter.md
    stencils: cn_story.sherlock_holmes.1.txt.yaml
  - title: 2. 一个广告
-   content:
+   content: chapter.md
    stencils: cn_story.sherlock_holmes.2.txt.yaml
  - title: 3. 新工作
-   content:
+   content: chapter.md
    stencils: cn_story.sherlock_holmes.3.txt.yaml
  - title: 4. 公司关门了?
-   content:
+   content: chapter.md
    stencils: cn_story.sherlock_holmes.4.txt.yaml
  - title: 5. 茶馆里的事
-   content:
+   content: chapter.md
    stencils: cn_story.sherlock_holmes.5.txt.yaml
  - title: 6. 去茶馆
-   content:
+   content: chapter.md
    stencils: cn_story.sherlock_holmes.6.txt.yaml
  - title: 7. 你们听!
-   content:
+   content: chapter.md
    stencils: cn_story.sherlock_holmes.7.txt.yaml
  - title: 8. 等人
-   content:
+   content: chapter.md
    stencils: cn_story.sherlock_holmes.8.txt.yaml
  - title: 9. 真的是他!
-   content:
+   content: chapter.md
    stencils: cn_story.sherlock_holmes.9.txt.yaml
  - title: 10. 都明白了
-   content:
+   content: chapter.md
    stencils: cn_story.sherlock_holmes.10.txt.yaml
