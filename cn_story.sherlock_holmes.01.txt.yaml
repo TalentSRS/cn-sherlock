@@ -140,6 +140,11 @@
   - No I'm not; you are!
   type: chinese
   comment: ! 'Covers: 才. Cost: 0.0'
+- chinese: 我不想问他。
+  english:
+  - I have no intention of asking him.
+  type: chinese
+  comment: ! 'Covers: 问. Cost: 0.0'
 - chinese: 我不是认真的。
   english:
   - I'm not serious.
@@ -160,41 +165,31 @@
   - No, I didn't go.
   type: chinese
   comment: ! 'Covers: 没. Cost: 0.0'
-- chinese: 他是跟朋友一起来的。
-  english:
-  - He came together with his friends.
-  type: chinese
-  comment: ! 'Covers: 一起. Cost: 0.0'
-- chinese: 他跟我想的不一样。
-  english:
-  - He wasn't the same as I thought he'd be.
-  type: chinese
-  comment: ! 'Covers: 想. Cost: 0.0'
-- chinese: Ken跟Bill一样高。
-  english:
-  - Ken is as tall as Bill.
-  type: chinese
-  comment: ! 'Covers: 跟. Cost: 0.0'
-- chinese: 他就是这样说的。
-  english:
-  - This is what he said.
-  type: chinese
-  comment: ! 'Covers: 这样. Cost: 0.0'
-- chinese: 不是你对的，就是我。
-  english:
-  - Either you or I am right.
-  type: chinese
-  comment: ! 'Covers: 对. Cost: 0.0'
-- chinese: 我一会儿就来。
-  english:
-  - I'll join you later.
-  type: chinese
-  comment: ! 'Covers: 一会儿. Cost: 0.0'
 - chinese: 他还没来。
   english:
   - He hasn't come yet.
   type: chinese
   comment: ! 'Covers: 还. Cost: 0.0'
+- chinese: 你还有别的问题吗？
+  english:
+  - Do you have any further questions?
+  type: chinese
+  comment: ! 'Covers: 别的. Cost: 1.0054697554697555e-3'
+- chinese: 我一会儿就来。
+  english:
+  - I'll join you later.
+  type: chinese
+  comment: ! 'Covers: 一会儿. Cost: 0.0'
+- chinese: 不是你对的，就是我。
+  english:
+  - Either you or I am right.
+  type: chinese
+  comment: ! 'Covers: 对. Cost: 0.0'
+- chinese: 他就是这样说的。
+  english:
+  - This is what he said.
+  type: chinese
+  comment: ! 'Covers: 这样. Cost: 0.0'
 - chinese: 我都知道了。
   english:
   - I know everything.
@@ -255,6 +250,31 @@
   - Isn't it a bit small?
   type: chinese
   comment: ! 'Covers: 小. Cost: 0.0'
+- chinese: 他很快就会回来。
+  english:
+  - He will be back in a second.
+  type: chinese
+  comment: ! 'Covers: 回来. Cost: 0.0'
+- chinese: 他很快就会到这里吗?
+  english:
+  - Will he be here soon?
+  type: chinese
+  comment: ! 'Covers: 到. Cost: 0.0'
+- chinese: 你没看到那个男人吗？
+  english:
+  - Didn't you see the man?
+  type: chinese
+  comment: ! 'Covers: 男人. Cost: 0.0'
+- chinese: 你的时间到了。
+  english:
+  - Your time is up.
+  type: chinese
+  comment: ! 'Covers: 到了. Cost: 0.0'
+- chinese: 他到另一边去了。
+  english:
+  - He went over to the other side.
+  type: chinese
+  comment: ! 'Covers: 一边. Cost: 3.7385972783011813e-3'
 - chinese: 他怎么没来？
   english:
   - What prevented him from coming?
@@ -291,17 +311,6 @@
   - You're sweet.
   type: chinese
   comment: ! 'Covers: 真. Cost: 0.0'
-- chinese: 他好高啊！
-  english:
-  - He's so tall!
-  type: chinese
-  comment: ! 'Covers: 啊. Cost: 0.0'
-- chinese: 你在看什么啊？
-  english:
-  - What are you looking at?
-  - What are you reading?
-  type: chinese
-  comment: ! 'Covers: 看. Cost: 0.0'
 - chinese: 你中午吃了什么？
   english:
   - What did you eat in the afternoon?
@@ -312,6 +321,22 @@
   - What are you looking for?
   type: chinese
   comment: ! 'Covers: 找. Cost: 0.0'
+- chinese: 你在看什么啊？
+  english:
+  - What are you looking at?
+  - What are you reading?
+  type: chinese
+  comment: ! 'Covers: 看. Cost: 0.0'
+- chinese: 他好高啊！
+  english:
+  - He's so tall!
+  type: chinese
+  comment: ! 'Covers: 啊. Cost: 0.0'
+- chinese: 你一定回来啊!
+  english:
+  - You must come back.
+  type: chinese
+  comment: ! 'Covers: 一定. Cost: 0.0'
 - chinese: 你能告诉我这是什么吗？
   english:
   - Can you tell me what this is?
@@ -332,41 +357,11 @@
   - ! '"Why aren''t you going?" "Because I don''t want to."'
   type: chinese
   comment: ! 'Covers: 因为. Cost: 6.569611604561938e-4'
-- chinese: 你一定回来啊!
-  english:
-  - You must come back.
-  type: chinese
-  comment: ! 'Covers: 一定. Cost: 0.0'
-- chinese: 他很快就会回来。
-  english:
-  - He will be back in a second.
-  type: chinese
-  comment: ! 'Covers: 回来. Cost: 0.0'
-- chinese: 他很快就会到这里吗?
-  english:
-  - Will he be here soon?
-  type: chinese
-  comment: ! 'Covers: 到. Cost: 0.0'
-- chinese: 你没看到那个男人吗？
-  english:
-  - Didn't you see the man?
-  type: chinese
-  comment: ! 'Covers: 男人. Cost: 0.0'
-- chinese: 你的时间到了。
-  english:
-  - Your time is up.
-  type: chinese
-  comment: ! 'Covers: 到了. Cost: 0.0'
 - chinese: 这真的是个好天气。
   english:
   - This really is great weather.
   type: chinese
   comment: ! 'Covers: 天气. Cost: 0.0'
-- chinese: 他到另一边去了。
-  english:
-  - He went over to the other side.
-  type: chinese
-  comment: ! 'Covers: 一边. Cost: 3.7385972783011813e-3'
 - chinese: 他走了。
   english:
   - He walked away.
@@ -377,11 +372,6 @@
   - Go when you want.
   type: chinese
   comment: ! 'Covers: 时候. Cost: 0.0'
-- chinese: 我跟你说话的时候看着我！
-  english:
-  - Look at me when I talk to you!
-  type: chinese
-  comment: ! 'Covers: 着. Cost: 0.0'
 - chinese: 你是最高的。
   english:
   - You're the tallest one.
@@ -422,11 +412,6 @@
   - This tea tastes good.
   type: chinese
   comment: ! 'Covers: 味道. Cost: 1.7721384394548904e-3'
-- chinese: 你还有别的问题吗？
-  english:
-  - Do you have any further questions?
-  type: chinese
-  comment: ! 'Covers: 别的. Cost: 1.0054697554697555e-3'
 - chinese: 她看起来好像有很多朋友。
   english:
   - She appears to have many friends.
@@ -492,6 +477,21 @@
   - I'll call you my boss.
   type: chinese
   comment: ! 'Covers: 老板. Cost: 9.682135491804073e-4'
+- chinese: 我跟你说话的时候看着我！
+  english:
+  - Look at me when I talk to you!
+  type: chinese
+  comment: ! 'Covers: 着. Cost: 0.0'
+- chinese: 他跟我想的不一样。
+  english:
+  - He wasn't the same as I thought he'd be.
+  type: chinese
+  comment: ! 'Covers: 想. Cost: 0.0'
+- chinese: Ken跟Bill一样高。
+  english:
+  - Ken is as tall as Bill.
+  type: chinese
+  comment: ! 'Covers: 跟. Cost: 0.0'
 - chinese: 让我来处理。
   english:
   - Let me handle this.
@@ -577,6 +577,11 @@
   - Are you going or not?
   type: chinese
   comment: ! 'Covers: 还是. Cost: 0.0'
+- chinese: 你想一起去吗？
+  english:
+  - Do you want to come along?
+  type: chinese
+  comment: ! 'Covers: 一起. Cost: 0.0'
 - chinese: 不要坐在上面。
   english:
   - Don't sit upon it.
@@ -587,11 +592,6 @@
   - He grinned with delight.
   type: chinese
   comment: ! 'Covers: 地. Cost: 9.0166447261645e-4'
-- chinese: 怎么不知道呢？
-  english:
-  - Don't you know how?
-  type: chinese
-  comment: ! 'Covers: 不知. Cost: 4.37076309152815e-4'
 - chinese: 我绝没想到会在这里遇见你。
   english:
   - This is the last place where I expected to meet you.
@@ -614,11 +614,6 @@
   - Your plan is very good, but mine is better.
   type: chinese
   comment: ! 'Covers: 可是. Cost: 3.658715059271184e-3'
-- chinese: 别再往Facebook上发私人照片了。
-  english:
-  - You need to stop posting private photos on Facebook.
-  type: chinese
-  comment: ! 'Covers: 发. Cost: 1.3338668800853675e-2'
 - chinese: 一下子之间我忘了她的名字了。
   english:
   - For a moment I forgot what her name was.
@@ -654,11 +649,6 @@
   - The meeting is held twice a month.
   type: chinese
   comment: ! 'Covers: 次. Cost: 2.7378507871321013e-3'
-- chinese: 高明的律师也许能找到回避那一条款的办法.
-  english:
-  - A clever lawyer might find ways of getting round that clause.
-  type: chinese
-  comment: ! 'Covers: 高明. Cost: 0.12330456226880396'
 - chinese: 赵小姐今天穿的那件衬衫非常好看。
   english:
   - That shirt Miss Zhao is wearing today looks very nice.
@@ -669,14 +659,3 @@
   - At the end of the party, we thanked our host and went away.
   type: chinese
   comment: ! 'Covers: 谢. Cost: 5.608524957936063e-2'
-- chinese: 如果您有关于这份问卷信息的使用条件，请在这里指定。
-  english:
-  - Please specify any conditions you have for the use of this information.
-  type: chinese
-  comment: ! 'Covers: 问卷. Cost: 0.10101010101010101'
-- chinese: 我得把你送进监狱直到你的案子进行审理，除非你可以找个人保释你。
-  english:
-  - I shall have to put you in prison until your case can be heard, unless you can
-    find anyone to go bail for you.
-  type: chinese
-  comment: ! 'Covers: 案子. Cost: 0.1972386587771203'

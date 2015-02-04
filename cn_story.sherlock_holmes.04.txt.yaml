@@ -185,8 +185,3 @@
   - ! '"You talk too much," he said.'
   type: chinese
   comment: ! 'Covers: 得. Cost: 0.0'
-- chinese: 雨从早上一直下到现在。
-  english:
-  - It's been raining since morning.
-  type: chinese
-  comment: ! 'Covers: 到现在. Cost: 2.5568908207619534e-2'

@@ -131,6 +131,11 @@
   - I don't like your going there by yourself.
   type: chinese
   comment: ! 'Covers: 地方. Cost: 0.0'
+- chinese: 你有几个孩子?
+  english:
+  - How many kids do you have?
+  type: chinese
+  comment: ! 'Covers: 几个. Cost: 9.007467190300758e-4'
 - chinese: 我喜欢他们每一个。
   english:
   - I like each of them.
@@ -201,21 +206,21 @@
   - Tell me what you have in your hand.
   type: chinese
   comment: ! 'Covers: 手里. Cost: 0.0'
-- chinese: 我在那里要了一张桌子。
-  english:
-  - I asked for a table over there.
-  type: chinese
-  comment: ! 'Covers: 桌子. Cost: 0.0'
 - chinese: 门外是两个女鬼!
   english:
   - Outside were two female ghosts!
   type: chinese
   comment: ! 'Covers: 门外. Cost: 7.983394539358134e-3'
-- chinese: 他到了那里就可能不回来了。
+- chinese: 我们在外面可以有一张桌子吗？
   english:
-  - Chances are that he won't come back when he gets there.
+  - Could we have a table outside?
   type: chinese
-  comment: ! 'Covers: 那里. Cost: 0.0'
+  comment: ! 'Covers: 桌子. Cost: 0.0'
+- chinese: 他就是我们一直要找的那一个人。
+  english:
+  - He is the very man that we've been looking for.
+  type: chinese
+  comment: ! 'Covers: 一直. Cost: 0.0'
 - chinese: 他们一起做过生意。
   english:
   - They've done some business together.
@@ -231,11 +236,6 @@
   - Some people tackle the difficult jobs first.
   type: chinese
   comment: ! 'Covers: 有的. Cost: 1.07789981999073e-3'
-- chinese: 我需要几个人帮我。
-  english:
-  - I need help from several people.
-  type: chinese
-  comment: ! 'Covers: 几个. Cost: 0.0'
 - chinese: 过去，她想帮他们。
   english:
   - She wanted to help them.
@@ -262,21 +262,21 @@
   - Your chair is identical to mine.
   type: chinese
   comment: ! 'Covers: 像. Cost: 0.0'
-- chinese: 三百多块钱。
-  english:
-  - More than three hundred dollars.
-  type: chinese
-  comment: ! 'Covers: 三. Cost: 0.0'
-- chinese: 他就是我们一直要找的那一个人。
-  english:
-  - He is the very man that we've been looking for.
-  type: chinese
-  comment: ! 'Covers: 一直. Cost: 0.0'
 - chinese: 第二天早上，我们都觉得很困。
   english:
   - We were very sleepy the next morning.
   type: chinese
   comment: ! 'Covers: 第二天. Cost: 2.218770800976259e-2'
+- chinese: 三百多块钱。
+  english:
+  - More than three hundred dollars.
+  type: chinese
+  comment: ! 'Covers: 三. Cost: 0.0'
+- chinese: 他到了那里就可能不回来了。
+  english:
+  - Chances are that he won't come back when he gets there.
+  type: chinese
+  comment: ! 'Covers: 那里. Cost: 0.0'
 - chinese: 他听到有人从后面叫他的名字。
   english:
   - He heard his name called from behind.

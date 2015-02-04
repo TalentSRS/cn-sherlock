@@ -35,11 +35,6 @@
   - Which countries have you visited?
   type: chinese
   comment: ! 'Covers: 哪些. Cost: 6.016123210203345e-3'
-- chinese: 你今晚想出去吃吗？
-  english:
-  - Do you want to eat out tonight?
-  type: chinese
-  comment: ! 'Covers: 想出. Cost: 0.0'
 - chinese: 我一定要马上去吗？
   english:
   - Must I go there at once?
@@ -60,16 +55,26 @@
   - A friend's coming over tomorrow.
   type: chinese
   comment: ! 'Covers: 明天. Cost: 0.0'
-- chinese: 他的英语有了小小的进步。
+- chinese: 他洗澡时想出了这个主意。
   english:
-  - He has made little progress in his English.
+  - The idea came to him in his bath.
   type: chinese
-  comment: ! 'Covers: 小小. Cost: 4.3744531933508315e-2'
+  comment: ! 'Covers: 想出. Cost: 3.5385704175513094e-2'
 - chinese: 人们不喜欢有这么多广告。
   english:
   - People don’t like so much advertising.
   type: chinese
   comment: ! 'Covers: 人们. Cost: 0.0'
+- chinese: 他的英语有了小小的进步。
+  english:
+  - He has made little progress in his English.
+  type: chinese
+  comment: ! 'Covers: 小小. Cost: 4.3744531933508315e-2'
+- chinese: 她摔倒在地，碰破了膝盖。
+  english:
+  - She fell down and grazed her knee.
+  type: chinese
+  comment: ! 'Covers: 在地. Cost: 8.944543828264759e-2'
 - chinese: 他难以说明她为什麽不见了.
   english:
   - He was hard put (to it) to explain her disappearance.

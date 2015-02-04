@@ -160,11 +160,6 @@
   - Don't throw a stone at the dog.
   type: chinese
   comment: ! 'Covers: 石头. Cost: 8.192020971573687e-3'
-- chinese: 我没有跟他见过面。
-  english:
-  - I haven't met him.
-  type: chinese
-  comment: ! 'Covers: 面. Cost: 1.143327540473795e-3'
 - chinese: 你真的吃得下这东西?
   english:
   - You're seriously going to eat this?
@@ -205,8 +200,3 @@
   - Farewell! I hope we meet again soon.
   type: chinese
   comment: ! 'Covers: 见面. Cost: 0.0'
-- chinese: 如果没有了水，没有人能够在地球上生存。
-  english:
-  - If it were not for water, no one could live on earth.
-  type: chinese
-  comment: ! 'Covers: 在地. Cost: 3.225806451612903e-2'

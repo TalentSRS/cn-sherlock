@@ -58,11 +58,6 @@
   - He told me to speak more slowly.
   type: chinese
   comment: ! 'Covers: 要说. Cost: 0.0'
-- chinese: Jim 和 Ron 跑得一样快。
-  english:
-  - Jim runs as fast as Ron.
-  type: chinese
-  comment: ! 'Covers: 跑. Cost: 0.0'
 - chinese: 快跑，不然你要迟到了。
   english:
   - Run or else you'll be late.
@@ -83,11 +78,6 @@
   - I've been in China for less than a month.
   type: chinese
   comment: ! 'Covers: 不到. Cost: 5.896574090453447e-3'
-- chinese: 只是从他旁边走过去我就觉得害怕。
-  english:
-  - I get scared just walking past him.
-  type: chinese
-  comment: ! 'Covers: 走过. Cost: 1.598976654940838e-2'
 - chinese: 听到这个坏消息，他心里充满恐怖。
   english:
   - He was filled with horror at the bad news.
