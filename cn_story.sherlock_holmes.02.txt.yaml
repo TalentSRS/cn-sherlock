@@ -330,11 +330,6 @@
   - She has a good many friends here.
   type: chinese
   comment: ! 'Covers: 不少. Cost: 1.51506198876127e-4'
-- chinese: 那辆摩托车就会要了你的命。
-  english:
-  - That motorbike will be the death of you.
-  type: chinese
-  comment: ! 'Covers: 会要. Cost: 6.451612903225806e-2'
 - chinese: 我想请你说说对这种情况的意见。
   english:
   - I need your slant on the situation.

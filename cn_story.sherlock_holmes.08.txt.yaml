@@ -35,16 +35,16 @@
   - Please remember what he said.
   type: chinese
   comment: ! 'Covers: 记住. Cost: 0.0'
-- chinese: 他说他让你说慢一点。
-  english:
-  - He said that he had told you to speak more slowly.
-  type: chinese
-  comment: ! 'Covers: 慢. Cost: 0.0'
 - chinese: 他害怕你会开枪打他。
   english:
   - He was scared you would shoot him.
   type: chinese
   comment: ! 'Covers: 开枪. Cost: 5.286250462546916e-3'
+- chinese: 他告诉我要|说慢一点。
+  english:
+  - He told me to speak more slowly.
+  type: chinese
+  comment: ! 'Covers: 慢. Cost: 0.0'
 - chinese: 你应该要更小心。
   english:
   - You should be more careful.

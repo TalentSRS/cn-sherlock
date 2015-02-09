@@ -40,16 +40,6 @@
   - Where is Room 105?
   type: chinese
   comment: ! 'Covers: 房间. Cost: 0.0'
-- chinese: 公园里人挤人。
-  english:
-  - The park was crowded.
-  type: chinese
-  comment: ! 'Covers: 里人. Cost: 3.7397157816005985e-2'
-- chinese: 你最喜欢什么样的人？
-  english:
-  - What kind of people do you like best?
-  type: chinese
-  comment: ! 'Covers: 什么样. Cost: 0.0'
 - chinese: 她有可能这么说。
   english:
   - She may well say so.
@@ -65,6 +55,11 @@
   - No. They are too small.
   type: chinese
   comment: ! 'Covers: 它们. Cost: 0.0'
+- chinese: 你最喜欢什么样的人？
+  english:
+  - What kind of people do you like best?
+  type: chinese
+  comment: ! 'Covers: 什么样. Cost: 0.0'
 - chinese: 我能和你做生意，太高兴了。
   english:
   - I am only too pleased to do business with you.
