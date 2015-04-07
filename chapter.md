@@ -1,1 +1,4 @@
-To read this chapter, get the ebook from Amazon.com, <http://www.amazon.com/dp/B00HFXR6W0/?tag=wwwmandarin00-20>.
+
+For copyright reasons, Talent<sup>SRS</sup> cannot show you the full text of the book. However, you can learn all of the vocabulary on this site and then go buy the book from Amazon.
+
+To read this chapter, get the book/ebook here: <http://mandarincompanion.com/products/sherlock-holmes-and-the-red-headed-league/>
