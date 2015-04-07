@@ -1,6 +1,8 @@
 - chinese: 太好了！
   english:
   - Great!
+  - That's great!
+  pinyin: Tài hǎo le!
   type: chinese
   comment: ! 'Covers: 太好了. Cost: 0.0'
 - chinese: 没办法。
@@ -11,11 +13,13 @@
 - chinese: 下午好。
   english:
   - Good afternoon.
+  pinyin: xiàwǔ hǎo
   type: chinese
   comment: ! 'Covers: 下午. Cost: 0.0'
 - chinese: Kate, 坐吧。
   english:
   - Sit down, Kate.
+  pinyin: zuò ba
   type: chinese
   comment: ! 'Covers: 坐. Cost: 0.0'
 - chinese: 他们同意.
@@ -56,6 +60,7 @@
 - chinese: 老人坐了下来。
   english:
   - The old man sat down.
+  pinyin: lǎorén zuò le xiàlai
   type: chinese
   comment: ! 'Covers: 老人. Cost: 2.631509697113234e-3'
 - chinese: 为什么你要这么难过?
@@ -71,6 +76,7 @@
 - chinese: 你们在喝什么？
   english:
   - What are you guys drinking?
+  pinyin: nǐmen zài hē shénme
   type: chinese
   comment: ! 'Covers: 喝. Cost: 0.0'
 - chinese: 他在看书。
@@ -87,13 +93,15 @@
 - chinese: 9点可以吗？
   english:
   - Would 9 o'clock be all right?
+  pinyin: diǎn kěyǐ ma
   type: chinese
   comment: ! 'Covers: 点. Cost: 0.0'
 - chinese: Jim还没回家。
   english:
+  - Jim has not yet returned home.
   - Jim hasn't been home yet.
   - Jim hasn't come home yet.
-  - Jim has not yet returned home.
+  pinyin: hái méi huíjiā
   type: chinese
   comment: ! 'Covers: 回家. Cost: 0.0'
 - chinese: 你越来越漂亮了。
@@ -109,6 +117,7 @@
 - chinese: 你们要我带什么东西吗？
   english:
   - Do you all want me to bring you anything?
+  pinyin: nǐmen yào wǒ dài shénme dōng xi ma
   type: chinese
   comment: ! 'Covers: 带. Cost: 0.0'
 - chinese: 我还没有找到我想要的东西。
@@ -119,6 +128,7 @@
 - chinese: 不，我没写。
   english:
   - No, I didn't write it.
+  pinyin: bù wǒ méi xiě
   type: chinese
   comment: ! 'Covers: 写. Cost: 0.0'
 - chinese: 好了，不要再说了。
@@ -209,6 +219,7 @@
 - chinese: 门外是两个女鬼!
   english:
   - Outside were two female ghosts!
+  pinyin: ! 'ménwài shì liǎng gè nǔ: guǐ'
   type: chinese
   comment: ! 'Covers: 门外. Cost: 7.983394539358134e-3'
 - chinese: 我们在外面可以有一张桌子吗？
@@ -234,6 +245,7 @@
 - chinese: 有的人爱先做难做的工作。
   english:
   - Some people tackle the difficult jobs first.
+  pinyin: yǒude rén ài xiān zuò nán zuò de gōngzuò
   type: chinese
   comment: ! 'Covers: 有的. Cost: 1.07789981999073e-3'
 - chinese: 过去，她想帮他们。

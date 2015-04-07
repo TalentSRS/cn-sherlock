@@ -7,6 +7,7 @@
 - chinese: 没门！
   english:
   - No way!
+  pinyin: méi mén
   type: chinese
   comment: ! 'Covers: 门. Cost: 0.0'
 - chinese: Tom今天没来上班。
@@ -42,6 +43,7 @@
 - chinese: 今天是个好天!
   english:
   - It's a nice day!
+  pinyin: jīntiān shì gè hǎo tiān
   type: chinese
   comment: ! 'Covers: 天. Cost: 0.0'
 - chinese: 有个办法。
@@ -93,8 +95,14 @@
 - chinese: 他拿起笔，写了起来。
   english:
   - He took up his pen and began to write.
+  pinyin: tā náqǐ bǐ xiě le qi lai
   type: chinese
   comment: ! 'Covers: 拿起. Cost: 1.0101010101010102e-2'
+- chinese: 你早就该开始了。
+  english:
+  - You should have started by now.
+  type: chinese
+  comment: ! 'Covers: 早就. Cost: 9.817781966698085e-4'
 - chinese: 他刚回到家。
   english:
   - He just got home.
@@ -110,26 +118,6 @@
   - What if he doesn’t like me?
   type: chinese
   comment: ! 'Covers: 怎么办. Cost: 0.0'
-- chinese: 如果我知道的话，我早就已经告诉你了。
-  english:
-  - Had I known about it, I would have told you.
-  type: chinese
-  comment: ! 'Covers: 早就. Cost: 0.0'
-- chinese: 他的话给了我希望。
-  english:
-  - His words gave me hope.
-  type: chinese
-  comment: ! 'Covers: 的话. Cost: 0.0'
-- chinese: 来嘛！给我个机会。
-  english:
-  - Come on! Give me a chance.
-  type: chinese
-  comment: ! 'Covers: 机会. Cost: 2.0365769215103255e-3'
-- chinese: 他给了它一个新名字。
-  english:
-  - He gave it a new name.
-  type: chinese
-  comment: ! 'Covers: 它. Cost: 0.0'
 - chinese: 每一个人都喜欢那个地方。
   english:
   - Everyone loves that place.
@@ -143,6 +131,7 @@
 - chinese: 书在桌子上。
   english:
   - The book is on the table.
+  pinyin: shū zài zhuōzi shàng
   type: chinese
   comment: ! 'Covers: 书. Cost: 0.0'
 - chinese: 你有点时间吗？
@@ -160,6 +149,17 @@
   - He quickly went out of the room.
   type: chinese
   comment: ! 'Covers: 走出. Cost: 4.6539768231954205e-3'
+- chinese: 来嘛！给我个机会。
+  english:
+  - Come on! Give me a chance.
+  pinyin: lái ma gěi wǒ gè jīhuì
+  type: chinese
+  comment: ! 'Covers: 机会. Cost: 2.0365769215103255e-3'
+- chinese: 他给了它一个新名字。
+  english:
+  - He gave it a new name.
+  type: chinese
+  comment: ! 'Covers: 它. Cost: 0.0'
 - chinese: ! '"谁可以来帮我一下?" "我帮你。"'
   english:
   - ! '"Can somebody help me?" "I will."'
@@ -175,13 +175,13 @@
   - What's more, you can only buy train tickets one week in advance.
   type: chinese
   comment: ! 'Covers: 只能. Cost: 9.155832265152902e-3'
-- chinese: 你别⋯⋯别这样和我说话。
-  english:
-  - You don't... you don't talk to me like that.
-  type: chinese
-  comment: ! 'Covers: 别. Cost: 0.0'
 - chinese: ! '"你说得太多了。"他说。'
   english:
   - ! '"You talk too much," he said.'
   type: chinese
   comment: ! 'Covers: 得. Cost: 0.0'
+- chinese: 你别⋯⋯别这样和我说话。
+  english:
+  - You don't... you don't talk to me like that.
+  type: chinese
+  comment: ! 'Covers: 别. Cost: 0.0'

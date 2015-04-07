@@ -18,6 +18,12 @@
   - How old is he?
   type: chinese
   comment: ! 'Covers: 多大. Cost: 0.0'
+- chinese: 他是经理吗？
+  english:
+  - Is he the manager?
+  pinyin: Tā shì jīnglǐ ma?
+  type: chinese
+  comment: ! 'Covers: 经理. Cost: 0.0'
 - chinese: 你在哪里下车？
   english:
   - Where do you get off?
@@ -28,36 +34,31 @@
   - I don't enjoy being with you.
   type: chinese
   comment: ! 'Covers: 在一起. Cost: 0.0'
-- chinese: 灯亮着。
-  english:
-  - The light is on.
-  type: chinese
-  comment: ! 'Covers: 灯. Cost: 0.0'
-- chinese: 天不早了。
-  english:
-  - It's getting late.
-  type: chinese
-  comment: ! 'Covers: 早. Cost: 0.0'
-- chinese: 不要站在我身边。
-  english:
-  - Don't stand near me.
-  type: chinese
-  comment: ! 'Covers: 身边. Cost: 3.3276762836511264e-3'
 - chinese: 你希望我帮忙吗？
   english:
   - Do you wish me to help?
   type: chinese
   comment: ! 'Covers: 帮忙. Cost: 0.0'
+- chinese: 不要站在我身边。
+  english:
+  - Don't stand near me.
+  type: chinese
+  comment: ! 'Covers: 身边. Cost: 3.3276762836511264e-3'
+- chinese: 天不早了。
+  english:
+  - It's getting late.
+  type: chinese
+  comment: ! 'Covers: 早. Cost: 0.0'
 - chinese: 今晚一定是好天。
   english:
   - The weather will be good tonight for sure.
   type: chinese
   comment: ! 'Covers: 今晚. Cost: 0.0'
-- chinese: 她是我们经理。
+- chinese: 灯亮着。
   english:
-  - He is our manager.
+  - The light is on.
   type: chinese
-  comment: ! 'Covers: 经理. Cost: 1.51506198876127e-4'
+  comment: ! 'Covers: 灯. Cost: 0.0'
 - chinese: “这些车是你的吗？”“是的，是我的。”
   english:
   - ! '"Are these your cars?" "Yes, they are."'

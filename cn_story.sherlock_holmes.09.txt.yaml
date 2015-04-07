@@ -41,6 +41,7 @@
 - chinese: 他真是一个好人。
   english:
   - He really is a good person.
+  pinyin: tā zhēnshi yī gè hǎo rén
   type: chinese
   comment: ! 'Covers: 真是. Cost: 0.0'
 - chinese: 一个聪明人不会说这种话。
@@ -48,9 +49,15 @@
   - A wise man would not say such a thing.
   type: chinese
   comment: ! 'Covers: 这种. Cost: 0.0'
+- chinese: 他的话给了我希望。
+  english:
+  - His words gave me hope.
+  type: chinese
+  comment: ! 'Covers: 的话. Cost: 0.0'
 - chinese: 你的方法和我的不一样。
   english:
   - Your method is different from mine.
+  pinyin: nǐ de fāngfǎ hé wǒ de bùyīyàng
   type: chinese
   comment: ! 'Covers: 方法. Cost: 0.0'
 - chinese: 我向一个警察问路。
@@ -71,6 +78,7 @@
 - chinese: 这听上去挺不错的。
   english:
   - It sounds quite all right.
+  pinyin: zhè tīng shàngqù tǐng bùcuò de
   type: chinese
   comment: ! 'Covers: 上去. Cost: 4.412283798093893e-3'
 - chinese: 我曾经在中国不到一个月。
@@ -86,5 +94,6 @@
 - chinese: 舞台灯光暗了下去, 这出戏的第一幕结束了.
   english:
   - The stage lights (were) dimmed, and the play's first act was over.
+  pinyin: wǔtái dēngguāng àn le xiàqù zhè chū xì de dìyī mù jiéshù le
   type: chinese
   comment: ! 'Covers: 灯光. Cost: 5.015045135406218e-2'

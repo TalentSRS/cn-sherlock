@@ -60,11 +60,6 @@
   - He was hard put (to it) to explain her disappearance.
   type: chinese
   comment: ! 'Covers: 不见. Cost: 2.677376171352075e-2'
-- chinese: 她摔倒在地，碰破了膝盖。
-  english:
-  - She fell down and grazed her knee.
-  type: chinese
-  comment: ! 'Covers: 在地. Cost: 8.944543828264759e-2'
 - chinese: 他洗澡时想出了这个主意。
   english:
   - The idea came to him in his bath.
@@ -80,6 +75,11 @@
   - He has made little progress in his English.
   type: chinese
   comment: ! 'Covers: 小小. Cost: 4.3744531933508315e-2'
+- chinese: 他一拳就把对手打倒在地。
+  english:
+  - He laid his opponent low with a single punch.
+  type: chinese
+  comment: ! 'Covers: 在地. Cost: 9.727626459143969e-2'
 - chinese: 我们不想给人看见，所以就从后门走了进去。
   english:
   - We came in through the back door lest someone should see us.

@@ -57,6 +57,7 @@
 - chinese: 他敲了门。
   english:
   - He knocked on the door.
+  pinyin: tā qiāo le mén
   type: chinese
   comment: ! 'Covers: 敲. Cost: 0.0'
 - chinese: 他进了自己房间。
@@ -98,16 +99,19 @@
   english:
   - ! '"When will you be back?" "It all depends on the weather."'
   - ! '"When will you come back?" "It all depends on the weather."'
+  pinyin: nǐ shénmeshíhou huílai zhè dōu yàokàn tiānqì
   type: chinese
   comment: ! 'Covers: 要看. Cost: 0.0'
 - chinese: 多难看的脸!
   english:
   - What an ugly mug!
+  pinyin: duō nánkàn de liǎn
   type: chinese
   comment: ! 'Covers: 难看. Cost: 6.586747464102227e-3'
 - chinese: 我的右腿受伤了。
   english:
   - I got my right leg injured.
+  pinyin: wǒ de yòu tuǐ shòushāng le
   type: chinese
   comment: ! 'Covers: 右. Cost: 1.1803588290840416e-2'
 - chinese: 这些叫鞋。
@@ -118,6 +122,7 @@
 - chinese: 他回店里去了。
   english:
   - He went back to the store.
+  pinyin: tā huí diàn lǐ qù le
   type: chinese
   comment: ! 'Covers: 店. Cost: 0.0'
 - chinese: 它们中没有我要的。
@@ -133,6 +138,7 @@
 - chinese: 我就有一块钱。
   english:
   - I only have one dollar.
+  pinyin: wǒ jiù yǒu yīkuài qián
   type: chinese
   comment: ! 'Covers: 一块. Cost: 0.0'
 - chinese: 他们应该十点前到。
@@ -143,6 +149,7 @@
 - chinese: 我们班有二十多个学生。
   english:
   - Our class has more than twenty students.
+  pinyin: wǒmen bān yǒu èrshíduō gè xuésheng
   type: chinese
   comment: ! 'Covers: 二十多. Cost: 1.5010507355148603e-2'
 - chinese: 今天晚上你有|时间吗？
@@ -163,11 +170,13 @@
 - chinese: 你真的吃得下这东西?
   english:
   - You're seriously going to eat this?
+  pinyin: nǐ zhēn de chī de xià zhè dōng xi
   type: chinese
   comment: ! 'Covers: 下. Cost: 0.0'
-- chinese: 你认识的中国字真不少。
+- chinese: 你的字写得真漂亮！
   english:
-  - You really know quite a few Chinese characters.
+  - Your handwriting is really good!
+  pinyin: Nǐ de zì xiě de zhēn piàoliang!
   type: chinese
   comment: ! 'Covers: 字. Cost: 0.0'
 - chinese: 你可以在书店买到它。
@@ -175,11 +184,6 @@
   - You can get it at a bookstore.
   type: chinese
   comment: ! 'Covers: 书店. Cost: 0.0'
-- chinese: 你记不记得我们认识的那一天？
-  english:
-  - Do you remember the day when we first met?
-  type: chinese
-  comment: ! 'Covers: 记得. Cost: 0.0'
 - chinese: 东一路有一所学校。
   english:
   - There is a school on First East Road.
@@ -195,6 +199,11 @@
   - I wouldn't ask this of you if it weren't important.
   type: chinese
   comment: ! 'Covers: 重要. Cost: 0.0'
+- chinese: 你记不记得我们认识的那一天？
+  english:
+  - Do you remember the day when we first met?
+  type: chinese
+  comment: ! 'Covers: 记得. Cost: 0.0'
 - chinese: 别了！希望很快我们能再见面。
   english:
   - Farewell! I hope we meet again soon.
