@@ -22,33 +22,33 @@ description: |
   You can buy the ebook here: <http://mandarincompanion.com/products/sherlock-holmes-and-the-red-headed-league/>
 image: sherlock.jpg
 units:
- - title: 1. 有意思的案子
+ - title: Chapter 1. 有意思的案子
    content: chapter.md
    stencils: cn_story.sherlock_holmes.01.txt.yaml
- - title: 2. 一个广告
+ - title: Chapter 2. 一个广告
    content: chapter.md
    stencils: cn_story.sherlock_holmes.02.txt.yaml
- - title: 3. 新工作
+ - title: Chapter 3. 新工作
    content: chapter.md
    stencils: cn_story.sherlock_holmes.03.txt.yaml
- - title: 4. 公司关门了?
+ - title: Chapter 4. 公司关门了?
    content: chapter.md
    stencils: cn_story.sherlock_holmes.04.txt.yaml
- - title: 5. 茶馆里的事
+ - title: Chapter 5. 茶馆里的事
    content: chapter.md
    stencils: cn_story.sherlock_holmes.05.txt.yaml
- - title: 6. 去茶馆
+ - title: Chapter 6. 去茶馆
    content: chapter.md
    stencils: cn_story.sherlock_holmes.06.txt.yaml
- - title: 7. 你们听!
+ - title: Chapter 7. 你们听!
    content: chapter.md
    stencils: cn_story.sherlock_holmes.07.txt.yaml
- - title: 8. 等人
+ - title: Chapter 8. 等人
    content: chapter.md
    stencils: cn_story.sherlock_holmes.08.txt.yaml
- - title: 9. 真的是他!
+ - title: Chapter 9. 真的是他!
    content: chapter.md
    stencils: cn_story.sherlock_holmes.09.txt.yaml
- - title: 10. 都明白了
+ - title: Chapter 10. 都明白了
    content: chapter.md
    stencils: cn_story.sherlock_holmes.10.txt.yaml
